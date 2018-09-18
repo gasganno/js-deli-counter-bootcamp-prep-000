@@ -1,4 +1,4 @@
-  var katzDeliLine = [];
+var katzDeliLine = [];
 
 function takeANumber(line, person) {
   line.push(person)
@@ -14,12 +14,20 @@ function nowServing(line) {
 }
 
 function currentLine(line) {
+  let n = 
   if (!line.length) {
     return "The line is currently empty."
   } else {
 
   }
 }
+=======
+
+
+
+
+
+>>>>>>> a1011d49cfd6a05f1b2baf9342d9e10cb515ada5
 
 
 
